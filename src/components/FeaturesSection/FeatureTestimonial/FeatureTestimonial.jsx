@@ -2,7 +2,7 @@ import React from "react";
 import IphoneTestimonialImage from "../../../assets/Testimonial Assets/iphone_12_pro_mock_up_testimonials.png";
 import NotificationUp from "../../../assets/Testimonial Assets/notification_item_credit.png";
 import NotificationDown from "../../../assets/Testimonial Assets/notification_item_mtn.png";
-import ShieldCheck from "../../../assets/Testimonial Assets/shield_check.SVG";
+import ShieldCheck from "../../../assets/Testimonial Assets/shield_check.svg";
 const FeatureTestimonial = () => {
   return (
     <div className="w-full flex xl:flex-row flex-col gap-12 md:px-[80px] px-[15px]">
