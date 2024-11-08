@@ -1,0 +1,3 @@
+.nav-links {
+  @apply text-lightGray font-inter text-base font-medium;
+}
