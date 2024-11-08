@@ -15,7 +15,7 @@ const PaymentApplicationSection = () => {
   return (
     <div className="w-full md:h-[572px] h-[512px] flex-col md:px-[72px] ">
       <div className="w-full bg-[#FAFAFA] md:py-24 py-16 flex flex-col items-center gap-16 text-center text-darkJungleGreen">
-        <div className=" w-[768px] flex gap-3 flex-col items-center">
+        <div className="md:w-[768px] w-auto flex gap-3 flex-col items-center">
           <h1 className="  font-inter font-semibold md:text-4xl md:leading-[44px] text-3xl leading-[38px]">
             Transact seamlessly with...
           </h1>
